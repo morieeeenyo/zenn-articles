@@ -1,0 +1,23 @@
+{
+  "name": "markdowns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/togo-mentor/markdowns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/togo-mentor/markdowns/issues"
+  },
+  "homepage": "https://github.com/togo-mentor/markdowns#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.146"
+  }
+}
